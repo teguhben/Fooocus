@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "waiANINSFWPONYXL_v130.safetensors": "https://civitai.com/api/download/models/1295881?token=73c1c0481937bece41c40fe8e5f94168"
+        "waiNSFWIllustrious_v130.safetensors": "https://civitai.com/api/download/models/1612720?token=73c1c0481937bece41c40fe8e5f94168"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
