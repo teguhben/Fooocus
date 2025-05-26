@@ -44,11 +44,10 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "": ""
+        
     },
     "embeddings_downloads": {},
     "lora_downloads": []
 
-    "previous_default_models": [
-    ]
+    "previous_default_models": []
 }
