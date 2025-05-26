@@ -47,8 +47,8 @@
         "": ""
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "": ""
+    "lora_downloads": []
 
+    "previous_default_models": [
     ]
 }
